@@ -38,25 +38,6 @@
     },
     "telegram-admin-handle": {
         "0": ""
-    },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "relay 1",
-                "type": "relay",
-                "key": ""
-            },
-            "1": {
-                "name": "relay 2",
-                "type": "relay",
-                "key": ""
-            },
-            "2": {
-                "name": "block producer home",
-                "type": "bp",
-                "key": ""
-            }
-        }
     }
 }
 
